@@ -65,6 +65,7 @@
     "preact-render-to-string": "^6.5.13",
     "pretty-bytes": "^6.1.1",
     "pretty-time": "^1.1.0",
+    "quartz": "^0.0.1",
     "reading-time": "^1.5.0",
     "rehype-autolink-headings": "^7.1.0",
     "rehype-citation": "^2.2.2",
@@ -109,7 +110,7 @@
     "@types/yargs": "^17.0.33",
     "esbuild": "^0.25.0",
     "prettier": "^3.5.0",
-    "tsx": "^4.19.2",
+    "tsx": "^3.12.10",
     "typescript": "^5.7.3"
   }
 }
