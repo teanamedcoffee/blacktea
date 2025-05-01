@@ -1,5 +1,2 @@
----
-title: coffee named tea
----
-
-a place to post my writings
+[[]]
+![[king_of_the_hill.jpg]]
