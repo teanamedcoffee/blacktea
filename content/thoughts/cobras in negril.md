@@ -1,8 +1,5 @@
 ---
 title: cobras in negril
-draft: false
-tags:
-  - nonfiction
 date: 4-5-25
 ---
 "put ya signature here" said the lanky jamaican holding a few flimsy papers. i signed them then put my helmet on. as i approached the motorcycle parked on the sidewalk outside of 'conrods rentals', i realized i hadn't asked any questions about the bike. when i mentioned the number of gears, the reluctant salesman cocked his head sideways, suddenly suspicious. he pointed his bony fingers down the street and told me to ride the sidewalk to prove i knew what i was doing.

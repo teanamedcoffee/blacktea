@@ -1,8 +1,5 @@
 ---
 title: first rule of fight club
-draft: false
-tags:
-  - nonfiction
 date: 5-5-2025
 ---
 the first rule of fight club is stop talking about race. no more discussions, tweets, books, podcasts, or documentaries about the black experience, race in america, racism, or "the culture." even my internal monologue, which can drone on and on trying to map every interaction to class, colorism, or colonial residue, needs to shut up. it’s a trap, a pit. an endless labyrinth of unresolvable words and emotions tied to a group identity that leads us nowhere. worse than nowhere, it distorts our view of ourselves. if you see yourself as a hammer (and i have), and every problem is a nail, you end up smashing a lot of delicate things. 
