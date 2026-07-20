@@ -1,5 +1,6 @@
 ---
 title: two reasons i like tech
+date: 2025-05-12
 ---
 
 staying on your toes:

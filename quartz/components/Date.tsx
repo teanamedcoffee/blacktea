@@ -23,6 +23,9 @@ export function formatDate(d: Date, locale: ValidLocale = "en-US"): string {
     year: "numeric",
     month: "short",
     day: "2-digit",
+    // frontmatter dates are date-only and parse as UTC midnight; format in UTC
+    // so the displayed date matches what's written regardless of build machine TZ
+    timeZone: "UTC",
   })
 }
 

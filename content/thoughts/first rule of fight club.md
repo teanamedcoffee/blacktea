@@ -1,6 +1,6 @@
 ---
 title: first rule of fight club
-date: 5-5-2025
+date: 2025-05-05
 ---
 let's stop talking about race. no more discussions, tweets, books, podcasts, or documentaries about racism or "the culture." it’s a trap. an endless labyrinth of unresolvable words and emotions tied to a group identity that has led us nowhere. worse than nowhere, it has distorted our view of ourselves because when we see ourselves as hammers and every problem as nails then we end up smashing a lot of delicate things. 
 

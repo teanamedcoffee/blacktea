@@ -1,5 +1,5 @@
 ---
-title: tea named coffee
+title: coffeenamedtea
 description: bag of ideas
 ---
-![king of the hill](/king_of_the_hill.jpg)
+![rex collis](/king_of_the_hood.jpg)
